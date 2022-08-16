@@ -22,8 +22,8 @@
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="taverne" height="30"/></a>
       <a href="https://discord.gg/DAVcaAUykY" target="blank"><img align="center"
-         src="https://img.shields.io/badge/discord-LaTaverneduDev-blue"
-         alt="taverne" height="30"/></a>
+         src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"
+          height="30"/></a>
       <a href="https://twitter.com/" target="blank"><img align="center"
          src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
          alt="taverne" height="30"/></a>
