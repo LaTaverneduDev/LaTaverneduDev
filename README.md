@@ -2,7 +2,9 @@
 <h1 align="center">Salut <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, nous sommes Zorg & Tom de La Taverne du Dev </h1>
 <h4 align="center">On développe principalement du Lua pour le jeux FiveM pour le plaisir, mais aussi plus récemment pour essayer de vivre de notre passion</h4>
 </div>
-
+<div align="center">
+  <a href="https://github.com/LaTaverneduDev">
+   <img  src="https://img.shields.io/github/followers/latavernedudev?label=LaTavernedudev&style=social" height="30"/></a> 
 <div align="center">
   <a href="https://github.com/LaTaverneduDev">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
